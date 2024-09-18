@@ -62,13 +62,7 @@ Gemini Q&A and Image Insights is a multi-functional application that integrates 
 2. Optionally provide a related prompt.
 3. Click "Tell me about the image" for AI analysis.
 
-## 📁 File Structure
 
-- `qachat.py`: Main Q&A functionality handler.
-- `vision.py`: Image upload and analysis module.
-- `requirements.txt`: Project dependencies.
-- `.env`: Secure storage for API key.
-- `README.md`: Project documentation.
 
 ## 📋 Requirements
 
