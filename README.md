@@ -90,7 +90,6 @@ Gemini Q&A and Image Insights is a multi-functional application that integrates 
 - **User Interface Design**: Creating an intuitive and responsive UI.
 - **Version Control**: Using Git for project management.
 - **Environment Management**: Handling dependencies and environment variables.
-- **Documentation**: Creating clear and comprehensive README and inline comments.
 
 ## 🔮 Future Enhancements
 
